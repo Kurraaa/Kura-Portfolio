@@ -23,7 +23,7 @@ function Projects() {
         />
         <ProjectCard
           src={taschenrechner}
-          link="https://discord.gg/JKJXTTEKqt"
+          link="https://kuracalculator.netlify.app/"
           h3="Taschenrechner"
           p="Taschenrechner in JS"
         />
